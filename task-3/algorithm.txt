@@ -1,0 +1,7 @@
+step 1:start
+step 2:enter the width and length of the room
+step 3:area of the room = width * length
+step 4:enter the square foot of each tile
+step 5:number of tiles needed = area of the room / square foot of each tile
+step 6:display the number of tiles needed
+step 7:stop
