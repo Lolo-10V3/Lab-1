@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="post lap exercise/post lap exercise.vcxproj" Id="ffd60283-2350-4d18-a5b7-43bed0c6f600" />
   <Project Path="Task-1/Task-1.vcxproj" Id="caafd706-2deb-4fa0-8d6a-9702d2047d6f" />
   <Project Path="task-2/task-2.vcxproj" Id="88128b59-c55f-4179-8516-ed93105107e1" />
   <Project Path="task-3/task-3.vcxproj" Id="1029a509-68c5-4fff-bd86-135ceae6fcfa" />
